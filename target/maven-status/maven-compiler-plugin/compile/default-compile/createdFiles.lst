@@ -1,0 +1,4 @@
+com\buby\customitemtutorial\AbstractItem.class
+com\buby\customitemtutorial\CustomItemManager.class
+com\buby\customitemtutorial\CustomItemTutorial.class
+com\buby\customitemtutorial\impl\VeryUsefulStick.class
